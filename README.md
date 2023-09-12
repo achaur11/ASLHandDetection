@@ -1,5 +1,5 @@
 # ASLHandDetection
-## Multiple Classifiers that detect the hand orientation and predict the sign shown.
+## Multiple Classifiers that detect the hand orientation and predict the sign shown, in Americal Sign Language.
 
 The repository consists of 4 different classifiers- 
 * Convolutional Neural Networks (CNN)
